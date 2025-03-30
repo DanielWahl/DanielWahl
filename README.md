@@ -23,6 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielwahl&show_icons=true&locale=en&layout=compact&theme=transparent&include_all_commits=true" alt="danielwahl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielwahl&" alt="danielwahl" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielWahl&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielwahl&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="danielwahl" /></p>
