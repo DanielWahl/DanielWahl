@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Daniel</h1>
 <h3 align="left">A passionate frontend developer and photographer from Luxembourg.</h3>
 
-- 👨‍💻 All of my projects are available at [danielwahl.lu](https://danielwahl.lu)
+- 🐋 All of my projects are available at [danielwahl.lu](https://danielwahl.lu)
 
 - 💬 Ask me about **Anything Frontend related, React, JS, TS, CSS, SASS, A11y, ...**
 
