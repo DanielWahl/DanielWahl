@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer and photographer from Luxembourg.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielwahl" alt="danielwahl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielwahl&no-bg=true" alt="danielwahl" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [danielwahl.lu](danielwahl.lu)
 
