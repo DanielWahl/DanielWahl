@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Daniel</h1>
 <h3 align="left">A passionate frontend developer and photographer from Luxembourg.</h3>
 
-- 👨‍💻 All of my projects are available at [danielwahl.lu](danielwahl.lu)
+- 👨‍💻 All of my projects are available at [danielwahl.lu](https://danielwahl.lu)
 
 - 💬 Ask me about **Anything Frontend related, React, JS, TS, CSS, SASS, A11y, ...**
 
 - 📫 Reach me via **contact@danielwahl.lu**
 
-- 🏢 I’m currently working part-time for [clubee.com](clubee.com) as **Frontend Team Lead**
+- 🏢 I’m currently working part-time for [clubee.com](https://clubee.com) as **Frontend Team Lead**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
