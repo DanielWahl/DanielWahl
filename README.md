@@ -7,7 +7,7 @@
 
 - 📫 Reach me via **contact@danielwahl.lu**
 
-- 👨🏼‍💻 Working as a freelance web developer for over 6 years
+- 👨🏼‍💻 Working as a freelance web developer for over 7 years
 
 - 🏢 I’m currently working part-time for [clubee.com](https://clubee.com) as **Frontend Team Lead**
 
